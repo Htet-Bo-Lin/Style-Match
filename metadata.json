@@ -1,0 +1,6 @@
+{
+  "name": "Style Match - AI Outfit Recommendation System",
+  "description": "Comprehensive Final-Year Computer Science Project Platform for Style Match: AI Outfit Recommendation using ANN, interactive simulation, mathematical formulas, system architecture diagrams, and complete code export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
